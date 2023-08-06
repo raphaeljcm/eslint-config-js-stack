@@ -13,7 +13,7 @@
   "author": "Raphael Marques",
   "license": "MIT",
   "peerDependencies": {
-    "typescript": "^4.0.0"
+    "typescript": ">=4"
   },
   "peerDependenciesMeta": {
     "typescript": {
