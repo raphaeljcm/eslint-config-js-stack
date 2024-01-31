@@ -10,6 +10,7 @@ module.exports = {
     'plugin:jsx-a11y/recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
+    'plugin:jest-dom/recommended'
   ],
   globals: {
     React: 'readonly',
@@ -28,6 +29,7 @@ module.exports = {
     'jsx-a11y',
     '@typescript-eslint',
     'prettier',
+    'jest-dom'
   ],
   rules: {
     'prettier/prettier': ["error", {
