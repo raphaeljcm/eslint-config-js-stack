@@ -29,7 +29,8 @@ module.exports = {
     'jsx-a11y',
     '@typescript-eslint',
     'prettier',
-    'jest-dom'
+    'jest-dom',
+    'testing-library'
   ],
   rules: {
     'prettier/prettier': ["error", {

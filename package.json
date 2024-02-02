@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-js-stack",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ESLint and Prettier configuration for JavaScript stack, providing comprehensive and optimized setups for React and Node.js projects.",
   "repository": {
     "url": "raphaeljcm/eslint-config-js-stack"
@@ -30,6 +30,7 @@
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-testing-library": "^6.2.0",
     "prettier": "^3.0.2"
   }
 }
